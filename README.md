@@ -29,12 +29,16 @@ Two dashboard layouts developed from the same dataset.
 Key Insights
 The dashboards allow users to compare the companies' performance in terms of revenue, bookings, and active drivers. They also provide a view of monthly performance and how the market leaders differ across the selected metrics.
 
-Dashboard Previews
-Dashboard Version 1
-Competitor Analysis Dashboard V1
+## Dashboard Previews
 
-Dashboard Version 2
-Competitor Analysis Dashboard V2
+### Dashboard Version 1
+
+![Competitor Analysis Dashboard V1](competitor-dashboard-v1.png)
+
+### Dashboard Version 2
+
+![Competitor Analysis Dashboard V2](competitor-dashboard-v2.png)
+
 
 Tools and Skills
 Microsoft Excel
